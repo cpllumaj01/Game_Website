@@ -1,0 +1,14 @@
+#title {
+    font-family: 'silkscreen', cursive;
+    font-size: 36px;
+    text-align: center;
+}
+
+#return {
+    height: 30px;
+    width: auto;
+}
+
+body {
+    background-color: rgb(210, 210, 210);
+}
